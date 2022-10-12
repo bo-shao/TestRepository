@@ -1,2 +1,1 @@
-testtest
-line 2
+test
